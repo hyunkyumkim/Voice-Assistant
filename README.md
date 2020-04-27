@@ -14,3 +14,4 @@ In order to activate the voice assistant, simply say "Are you there?"
     1) "Make a note"
     2) "Write this down"
     3) "Remember this"
+    
